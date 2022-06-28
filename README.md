@@ -14,7 +14,7 @@ See also:
 
 This project uses the [`@wordpress/env`](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-env/) package to provide a local development environment. Before you can use the development environment, you must install [Docker](https://docs.docker.com/get-docker/).
 
-Once Docker is installed, clone this project and enter the working directory:
+Once Docker is installed, clone this project into the WordPress plugins folder and enter the working directory:
 
 ```
 git clone git@github.com:uConnect/gutenberg-examples.git
